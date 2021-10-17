@@ -1,0 +1,17 @@
+.font{
+    font-size: 50px;
+    font-style:oblique ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bold,#resultobject,#resultacuracy{
+    color:rgb(2, 255, 103);
+}
+#camera{
+    border: rgb(140, 0, 255) 2px dashed;
+    height: 300px;
+    width: 350px;
+}
+body{
+    background-color: rgb(14, 211, 237);
+    color: lime;
+}
